@@ -5,6 +5,6 @@ public class Hello {
 =======
         System.out.println("Hello, World!\n");
 >>>>>>> cbb3af6 (Update file HelloWorld.java)
-        System.out.println("New Feature!");
+        System.out.println("New Feature!\n");
     }
 }
